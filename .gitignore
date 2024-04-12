@@ -1,0 +1,15 @@
+*.hex
+*.bin
+*.o
+main
+main_pre
+pack/
+stage2_arr.c
+
+!bootloader/main.hex
+!bootloader/eeprom.bin
+
+__pycache__/
+*.pyc
+.venv/
+
